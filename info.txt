@@ -1,0 +1,21 @@
+Caminhos OK
+
+http://localhost/curso/index.php/aula5
+
+http://localhost/curso/index.php/aula
+
+http://localhost/curso/index.php/aula/index/1
+http://localhost/curso/index.php/aula/index/2
+http://localhost/curso/index.php/aula/index/3
+
+http://localhost/curso/index.php/aula5/pagina
+http://localhost/curso/index.php/aula5/pagina/contato
+
+http://localhost/curso/index.php/site/livros
+
+http://localhost/curso/index.php/site/info
+
+http://localhost/curso/index.php/site/info/1
+http://localhost/curso/index.php/site/info/2
+http://localhost/curso/index.php/site/info/3
+http://localhost/curso/index.php/site/info/4
